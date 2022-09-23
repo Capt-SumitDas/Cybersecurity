@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Intro/intro.md",
+            "file": "OWasp/top 10.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Intro/intro.md",
+                "file": "OWasp/top 10.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Intro/intro.md",
+                "file": "OWasp/top 10.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Intro/intro.md"
+                "file": "OWasp/top 10.md"
               }
             }
           }
@@ -130,7 +130,7 @@
   },
   "active": "ce31289e2f529719",
   "lastOpenFiles": [
-    "top 10.md",
-    "Intro/intro.md"
+    "Intro/intro.md",
+    "OWasp/top 10.md"
   ]
 }
