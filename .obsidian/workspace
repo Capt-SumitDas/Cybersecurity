@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Intro/intro.md",
+            "file": "top 10.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Intro/intro.md",
+                "file": "top 10.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Intro/intro.md",
+                "file": "top 10.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Intro/intro.md"
+                "file": "top 10.md"
               }
             }
           }
@@ -129,5 +129,7 @@
     "collapsed": true
   },
   "active": "86c6459def5102a5",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "Intro/intro.md"
+  ]
 }
