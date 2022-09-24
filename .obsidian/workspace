@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Intro/intro.md",
+            "file": "Certified_in_Cybersecurity_ISO2(CC)/Security Concepts.md",
             "mode": "source",
             "source": false
           }
@@ -61,7 +61,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "e8b085b34d05727e",
@@ -77,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Intro/intro.md",
+                "file": "Certified_in_Cybersecurity_ISO2(CC)/Security Concepts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Intro/intro.md",
+                "file": "Certified_in_Cybersecurity_ISO2(CC)/Security Concepts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Intro/intro.md"
+                "file": "Certified_in_Cybersecurity_ISO2(CC)/Security Concepts.md"
               }
             }
           }
@@ -130,8 +131,11 @@
   },
   "active": "86c6459def5102a5",
   "lastOpenFiles": [
+    "confidentiality.md",
+    "Certified_in_Cybersecurity_ISO2(CC)/Security Concepts.md",
+    "Intro/intro.md",
+    "Untitled.md",
     "web app/web application.md",
-    "OWasp/top 10.md",
-    "Intro/intro.md"
+    "OWasp/top 10.md"
   ]
 }
