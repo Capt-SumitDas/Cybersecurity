@@ -1,4 +1,9 @@
 [
   "obsidian-discordrpc",
-  "obsidian-git"
+  "obsidian-git",
+  "table-editor-obsidian",
+  "dataview",
+  "cm-editor-syntax-highlight-obsidian",
+  "obsidian-excel-to-markdown-table",
+  "markdown-table-editor"
 ]
