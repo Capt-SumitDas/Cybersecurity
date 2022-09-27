@@ -4,5 +4,6 @@
     "en-US",
     "en-GB",
     "hi"
-  ]
+  ],
+  "alwaysUpdateLinks": true
 }

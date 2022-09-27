@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Certified_in_Cybersecurity_ISO2(CC)/2. Risk Management.md",
+            "file": "Certified_in_Cybersecurity_ISO2(CC)/5. Incident Response.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Certified_in_Cybersecurity_ISO2(CC)/2. Risk Management.md",
+                "file": "Certified_in_Cybersecurity_ISO2(CC)/5. Incident Response.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Certified_in_Cybersecurity_ISO2(CC)/2. Risk Management.md",
+                "file": "Certified_in_Cybersecurity_ISO2(CC)/5. Incident Response.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Certified_in_Cybersecurity_ISO2(CC)/2. Risk Management.md"
+                "file": "Certified_in_Cybersecurity_ISO2(CC)/5. Incident Response.md"
               }
             }
           },
@@ -139,13 +139,15 @@
   },
   "active": "2da2fcf7866981e0",
   "lastOpenFiles": [
-    "Certified_in_Cybersecurity_ISO2(CC)/1. Security Concepts.md",
+    "Certified_in_Cybersecurity_ISO2(CC)/4. Business Continuity controls.md",
+    "Certified_in_Cybersecurity_ISO2(CC)/3. Security Governance.md",
     "Certified_in_Cybersecurity_ISO2(CC)/2. Risk Management.md",
+    "Certified_in_Cybersecurity_ISO2(CC)/images/Qualitative Risk assessment.png",
+    "Intro/intro.md",
+    "Certified_in_Cybersecurity_ISO2(CC)/1. Security Concepts.md",
     "THM.md",
     "confidentiality.md",
     "2022-09-25.md",
-    "Intro/intro.md",
-    "web app/web application.md",
-    "OWasp/top 10.md"
+    "web app/web application.md"
   ]
 }
